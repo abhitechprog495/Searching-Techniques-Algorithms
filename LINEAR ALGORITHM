@@ -1,0 +1,7 @@
+Step 1 – START
+Step 2 – Set i to 1
+Step 3 – if i > n, then show element not found!
+Step 4 – if list[i]=x, then element x is found at position i
+Step 5 – i=i+1
+Step 6 – Repeat steps 2 to 5 until element found and then go to step 7
+Step 7 – STOP
