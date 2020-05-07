@@ -1,0 +1,23 @@
+Algorithm for Binary Search (Ascending Order)
+
+Step 1 – START
+Step 2 – Set low, high
+Step 3 – if low > high, then the element is not found!
+Step 4 – mid = (low + high)/2
+Step 5 – if x = list[mid], then show element x is found at position mid
+Step 6 – if x < list[mid], then high = mid - 1
+Step 7 – if x > list[mid], then low = mid + 1
+Step 8 – Repeat Steps 3 To 6 until element is founded!
+Step 9 – STOP
+
+Algorithm for Binary Search (Descending Order)
+
+Step 1 – START
+Step 2 – Set low, high
+Step 3 – if low > high, then the element is not found!
+Step 4 – mid = (low + high)/2
+Step 5 – if x = list[mid], then show element x is found at position mid
+Step 6 – if x > list[mid], then high = mid - 1
+Step 7 – if x < list[mid], then low = mid + 1
+Step 8 – Repeat Steps 3 To 6 until element is founded!
+Step 9 – STOP
