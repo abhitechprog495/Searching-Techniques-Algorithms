@@ -11,4 +11,4 @@ It works according to order of elements.
 
 2. LINEAR ALGORITHM
 
-This is the algorithm for linaer search. 
+This is the algorithm for linear search. 
